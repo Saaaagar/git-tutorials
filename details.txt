@@ -1,2 +1,4 @@
 user data
 name :sagar sakharam Indulkar
+
+role:admin
